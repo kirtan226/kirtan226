@@ -71,14 +71,7 @@ I work mainly with Python, Django, Django REST Framework, FastAPI, relational da
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kirtan226&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Kirtan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan226&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
