@@ -65,8 +65,8 @@ I work mainly with Python, Django, Django REST Framework, FastAPI, relational da
   <img width="48" src="https://skillicons.dev/icons?i=postman" alt="Postman" />
   <img width="48" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
   <img width="48" src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" />
-  <img width="48" src="https://cdn.simpleicons.org/anthropic/000000" alt="Claude Code" />
-  <img width="48" src="https://cdn.simpleicons.org/githubcopilot/000000" alt="GitHub Copilot" />
+  <img width="48" src="https://cdn.simpleicons.org/anthropic/ffffff" alt="Claude Code" />
+  <img width="48" src="https://cdn.simpleicons.org/githubcopilot/ffffff" alt="GitHub Copilot" />
 </p>
 
 ---
